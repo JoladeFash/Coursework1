@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "type": "class",
+    "title": "Introduction to Economics",
+    "description": "Economics (/ɛkəˈnɒmɪks, iːkə-/) is the social science that studies the production, distribution, and consumption of goods and services. Economics focuses on the behaviour and interactions of economic agents and how economies work.",
+    "price": 30,
+    "area": "economics",
+    "length": 30,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "Julius",
+      "lastname": "Davids"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Jane Alleck",
+        "feedback": "Great Course!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "activity",
+    "title": "Introduction to Algebra",
+    "description": "In its most general form, algebra is the study of mathematical symbols and the rules for manipulating these symbols; it is a unifying thread of almost all of mathematics. It includes everything from elementary equation solving to the study of abstractions such as groups, rings, and fields.",
+    "price": 50,
+    "area": "arts",
+    "length": 60,
+    "orientation": "individual",
+    "rating": 2,
+    "author": {
+      "firstname": "Luke",
+      "lastname": "Skye"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Sara King",
+        "feedback": "I became better at this course"
+      },
+      {
+        "id": 2,
+        "name": "Xena Ivie",
+        "feedback": "I have learnt more on the course"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "activity",
+    "title": "Music Practice",
+    "description": "Music lessons for children from 4-6pm?",
+    "price": 10,
+    "area": "music",
+    "length": 10,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "Johnny",
+      "lastname": "Andrew"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Sax Dome",
+        "feedback": "Splendid Lesson"
+      },
+      {
+        "id": 2,
+        "name": "Jana Del",
+        "feedback": "Great Teacher"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "class",
+    "title": "Swimming Lesson",
+    "description": "Learn the different swimming techniques",
+    "price": 50,
+    "area": "swimming",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Zlatan",
+      "lastname": "Zanku"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Gbeku",
+        "feedback": "Nice course."
+      },
+      {
+        "id": 2,
+        "name": "Ronaldo",
+        "feedback": "Great teaching method"
+      }
+    ]
+  }
+]
